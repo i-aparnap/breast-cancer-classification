@@ -1,18 +1,18 @@
 # breast-cancer-classification
 This project uses the breast cancer dataset from sklearn to train and compare multiple classification algorithms.
 
-## 🔍 Dataset
+##  Dataset
 - Source: `sklearn.datasets.load_breast_cancer()`
 - Task: Classify tumors as benign or malignant
 
-## 🧪 Algorithms Used
+##  Algorithms Used
 - Logistic Regression
 - Decision Tree
 - Random Forest
 - Support Vector Machine (SVM)
 - k-Nearest Neighbors (k-NN)
 
-## 📈 Accuracy Results
+## Accuracy Results
 | Model                | Accuracy |
 |---------------------|----------|
 | Logistic Regression | 97.37%   |
@@ -21,12 +21,12 @@ This project uses the breast cancer dataset from sklearn to train and compare mu
 | Decision Tree       | 94.74%   |
 | k-NN                | 94.74%   |
 
-## 📌 Conclusion
+## Conclusion
 - Logistic Regression and SVM performed the best.
 - All models gave reliable results.
 - The dataset is well-structured and clean.
 
 ---
 
-### 📁 File
+### File
 - `breast_cancer_classification.ipynb` – Complete code with explanation
